@@ -35,7 +35,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-          remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
