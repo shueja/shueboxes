@@ -1,0 +1,8 @@
+---
+title: Literacy Assessments and Tutoring
+layout: page
+---
+
+Is your child struggling with reading? Do you have a family history or other reason to suspect dyslexia or another learning disability? I offer literacy assessments and tutoring for students with or without learning disabilities. I have been trained in Lindamood-Bell programs as well as several other Orton-Gillingham based programs. Additionally, I use Structured Word Inquiry to help students understand how the English language is organized.  I am also a certified IEW instructor.
+
+I will first do a full literacy assessment which helps me to determine which aspects of the reading and/or writing process are problematic. With that information, I will devise a program specifically for your child. That can be a program for homeschooling parents to utilize at home or for me to use in daily or weekly tutoring sessions. For assessments, I charge $500 which includes a written report that can be shared with schools or other professionals. For tutoring, I charge $95 an hour for private pay students and $100 an hour for charter students. A sliding scale is available for families that would like to gather a few friends together for small group writing instruction.
