@@ -31,11 +31,8 @@ I am a local homeschool parent and a certified IEW instructor with over fifteen 
 ## Frontiers in Writing
 
 * Time: 9-10:15 am
-
 * Ages 8-11. Students should be able to read at a third-grade level or above and copy from the board.
-
 * Cost $680/year, +$25 for charter students, $65/materials, $50/new student pack,
-
 * Materials included:
     * [Fix It! 2: Town Mouse and Country Mouse](https://iew.com/fix-it-grammar-level-2-town-mouse-and-country-mouse-teacherstudent-combo)
     * [Frontiers in Writing Student Book](https://iew.com/frontiers-in-writing-student-book-only)
@@ -71,7 +68,7 @@ This is a class for students who are solid a middle school level and moving towa
 
 
 ## Following Narnia: Aslan’s Country
-
+* Time: 
 * Ages 13-18
 * Cost $730/year, +$25 for charter students, $65/materials, $50/new student pack
 * Materials included: 
