@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Shuebox Educational Services
 ---
 
 # About the Teacher, Rebecca Shue

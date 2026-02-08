@@ -1,4 +1,7 @@
-# IEW Classes 2026-2027
+---
+title: IEW Classes 2026-2027
+layout: page
+---
 
 Learning to write well is one of the most important skills for predicting school and life success. It is also a subject that many homeschool parents struggle to teach well. With that in mind, I offer writing classes for homeschool students. The classes are a lot of fun and include instruction in composition, grammar, vocabulary, and public speaking. These are core classes. You can see more of my qualifications at www.shueboxes.com.
 
@@ -68,7 +71,7 @@ This is a class for students who are solid a middle school level and moving towa
 
 
 ## Following Narnia: Aslan’s Country
-* Time: 
+* Time: 1:15-2:30 pm
 * Ages 13-18
 * Cost $730/year, +$25 for charter students, $65/materials, $50/new student pack
 * Materials included: 
