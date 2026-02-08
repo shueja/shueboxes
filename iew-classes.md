@@ -1,4 +1,4 @@
-# IEW CLASSES 2026-2027
+# IEW Classes 2026-2027
 
 Learning to write well is one of the most important skills for predicting school and life success. It is also a subject that many homeschool parents struggle to teach well. With that in mind, I offer writing classes for homeschool students. The classes are a lot of fun and include instruction in composition, grammar, vocabulary, and public speaking. These are core classes. You can see more of my qualifications at www.shueboxes.com.
 
