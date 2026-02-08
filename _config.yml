@@ -24,7 +24,7 @@ author:
   email: rebecca.m.shue@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   IEW classes and literacy assessments in Escondido, California
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/shueboxes" # the subpath of your site, e.g. /blog
 url: "https://shueboxes.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
