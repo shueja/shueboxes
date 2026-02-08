@@ -1,6 +1,5 @@
 ---
 title: Literacy Assessments and Tutoring
-layout: page
 ---
 
 Is your child struggling with reading? Do you have a family history or other reason to suspect dyslexia or another learning disability? I offer literacy assessments and tutoring for students with or without learning disabilities. I have been trained in Lindamood-Bell programs as well as several other Orton-Gillingham based programs. Additionally, I use Structured Word Inquiry to help students understand how the English language is organized.  I am also a certified IEW instructor.

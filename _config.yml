@@ -8,7 +8,12 @@
 ############################
 # --- Required options --- #
 ############################
-
+defaults:
+  -
+    scope:
+      path: "**/*.md"
+    values:
+      layout: "default"
 # Name of website
 title: Shuebox Educational Services
 
