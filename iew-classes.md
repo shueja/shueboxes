@@ -55,16 +55,16 @@ This is a perfect class for the unsure, young, or beginning writer. Topics inclu
 This is the class for students moving into middle school level writing. Topics will include insects, inventions, and famous scientists. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Students should not need assistance in class. All students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Parents should plan on working on writing at home for 30-45 minutes a day on the non-class days. Optional literature suggestions will be provided.
 
 
-## Modern History Based Writing Lessons
+## US History Based Writing Lessons
 
 * Time: 12-1:15 pm
-* Ages 11-14. Student should be able to read at a seventh-grade level or above and write independently.
+* Ages 11-14. Student should be able to read at a sixth-grade level or above and write independently.
 * Cost $720/year, +$25 for charter students, $65/materials, $50/new student pack
 * Materials included:
     * [Fix It! 5: Frog Prince](https://iew.com/fix-it-grammar-level-5-frog-prince-teacherstudent-combo)
-    * [Modern World History Based Writing Student Book](https://iew.com/modern-world-history-based-writing-lessons-student-book-only)
+    * [US History Based Writing Student Book](https://iew.com/us-history-based-writing-lessons-student-book-only)
 
-This is a class for students who are solid a middle school level and moving toward high school level writing. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Most students will be fully independent in class, but parents are encouraged to observe class. All students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Parents should plan on working on writing at home for 45-60 minutes a day on the non-class days. Optional literature suggestions will be provided.
+This is a class for students who are solid at middle school level and moving toward high school level writing. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Most students will be fully independent in class, but parents are encouraged to observe class. All students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Parents should plan on working on writing at home for 45-60 minutes a day on the non-class days. Optional literature suggestions will be provided.
 
 
 
