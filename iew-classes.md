@@ -43,7 +43,7 @@ This is a perfect class for the unsure, young, or beginning writer. Topics inclu
 
 
 
-# Wonders of Science
+## Wonders of Science
 
 * Time: 10:15-11:30 am
 * Ages 10-12. Students should be able to read at a fifth-grade level or above and copy from the board.
