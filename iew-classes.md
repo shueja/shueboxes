@@ -55,28 +55,16 @@ This is a perfect class for the unsure, young, or beginning writer. Topics inclu
 This is the class for students moving into middle school level writing. Topics will include insects, inventions, and famous scientists. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Students should not need assistance in class. All students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Parents should plan on working on writing at home for 30-45 minutes a day on the non-class days. Optional literature suggestions will be provided.
 
 
-## US History Based Writing Lessons
+## Modern World History Based Writing Lessons
 
 * Time: 12-1:15 pm
-* Ages 11-14. Student should be able to read at a sixth-grade level or above and write independently.
-* Cost $720/year, +$25 for charter students, $65/materials, $50/new student pack
+
+* Ages 12-18, student should be able to read at a sixth-grade level or above and write independently.
+
+* Cost $725/year, +$25 for charter students, $65/materials, $50/new student pack,
+
 * Materials included:
     * [Fix It! 5: Frog Prince](https://iew.com/fix-it-grammar-level-5-frog-prince-teacherstudent-combo)
-    * [US History Based Writing Student Book](https://iew.com/us-history-based-writing-lessons-student-book-only)
+    * [Modern World History-Based Writing Lessons Student Book](https://iew.com/modern-world-history-based-writing-lessons-student-book-only)
 
-This is a class for students who are solid at middle school level and moving toward high school level writing. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Most students will be fully independent in class, but parents are encouraged to observe class. All students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Parents should plan on working on writing at home for 45-60 minutes a day on the non-class days. Optional literature suggestions will be provided.
-
-
-
-
-## Following Narnia: Aslan’s Country
-* Time: 1:15-2:30 pm
-* Ages 13-18
-* Cost $730/year, +$25 for charter students, $65/materials, $50/new student pack
-* Materials included: 
-    * [Fix It! 6: Little Mermaid](https://iew.com/fix-it-grammar-level-6-little-mermaid-teacherstudent-combo)
-    * [Following Narnia® Volume 2: Aslan's Country Student Book](https://iew.com/following-narnia-volume-2-aslans-country-student-book-only)
-
-Your child will also need access to the four Narnia books (*Prince Caspian*, *The Voyage of the Dawn Treader*, *The Silver Chair*, and *The Last Battle*). Library is fine.
-
-Adventure through four novels of The Chronicles of Narnia series. Students in grades 8-12 will explore the enchanted land of Narnia while they learn advanced writing skills. This course is recommended for students with at least one year of experience with IEW. While the Narnia series can be read as a Christian allegory, we will not be using it in that way. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Students should be fully independent in class, but parents are welcome to observe class. Some students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Others will be completely independent. Students should plan on working on writing at home for 45-60 minutes a day on the non-class days. Reading the Narnia books is required in this class.
+The world is at your fingertips! Students write about world leaders, the printing press, and more through cultural literature and the study of famous people and events while they learn to write with the Structure and Style® writing method. Offering a full year of Writing Across the Curriculum for students in grades 6–8 with advanced additions for high school students, these lessons cover all nine IEW Units. Class will include weekly Fix-it grammar instruction and assignments as well as instruction in public speaking and vocabulary. Most students will be fully independent in class, but parents are welcome to observe class. All students will need parental assistance at home with grading Fix-it, editing papers, and keeping track of assignments. Students should plan on working on writing at home for 45-60 minutes a day on the non-class days. Optional literature suggestions will be provided.
